@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-Yo this it the merge test eh!
-
-So lets make some vhanges now eh
-||||||| d2d5955
-Yo this it the merge test eh!
-=======
 Yo this it the merge test eh!
 
 So lets make some vhanges now eh
 
 Oh is it really? We'll find out about that..
->>>>>>> 9dfcd9160082e820b28351a3d7da72e20928b32f
